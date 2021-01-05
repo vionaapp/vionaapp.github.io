@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{w2l6:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),c=n.n(a),r=n("Wbzz"),l=n("yBb5");t.default=function(){return c.a.createElement(l.a,{title:"صفحه یافت نشد"},c.a.createElement("h5",{className:"mt-5 text-center"},"صفحه مورد نظر یافت نشد"),c.a.createElement("div",{className:"d-flex justify-content-center pb-5"},c.a.createElement(r.Link,{to:"/"},"صفحه اصلی")))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-471409e3e2783f966efe.js.map
